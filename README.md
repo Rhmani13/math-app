@@ -1,5 +1,5 @@
 # Mathe-App
-Eine Open-Source-Web-basierte Mathe-Anwendung zum Lernen und Lösen von Mathe-Aufgaben.
+Eine Open-Source-Web-basierte Mathe-App zum Lernen und Lösen von Mathe-Aufgaben.
 
 ## Funktionen
 - Benutzerregistrierung und -anmeldung
